@@ -1,0 +1,1 @@
+<h1>A Simple Svelte Kit Learning Project! xD</h1>
