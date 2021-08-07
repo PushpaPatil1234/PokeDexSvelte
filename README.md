@@ -10,5 +10,6 @@ A Begineer Svelte Kit Project seen From Youtube.
 - Using PokeAPI
 - With Routes
 - Tailwind css
+- Hosted On Vercel
 
   
